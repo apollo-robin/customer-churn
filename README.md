@@ -18,8 +18,8 @@
 
 ## General Information
 - This project intends to solve the problem of <b>cusotmer churn</b> by prediciting customers who are likely churn.
-- The model is trained on data from <b>10k</b> credit card users with <b>18</b> features.
 - Predicitions are made using Machine Learning techniques for Classification.
+- The model is trained on data from <b>10k</b> credit card users with <b>18</b> features.
 - This project is part of a course on Machine Learning Operations.
 
 ## Technologies Used
