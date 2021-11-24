@@ -31,6 +31,7 @@ st.markdown('<p style= "text-align:center; color: black;  font-size: 18px">We in
 
 with st.form("info"):
     st.markdown("**Just fill in the details and we'll let you know** :yum: ")
+    
     col1 , col2 = st.beta_columns(2)
     age = col1.slider('Age', min_value=18,max_value=75)
     gender = col2.selectbox('Gender', options=("M","F"))
@@ -65,26 +66,5 @@ if submit:
         st.balloons()
         st.success("The customer is not likely to attrite !")
     else:
-        st.warning("This customer may attrite. Do something !")
-        
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+        st.error("This customer may attrite. Do something !")
+       
