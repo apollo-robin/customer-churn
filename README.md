@@ -32,7 +32,7 @@
 
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+![Example screenshot](.WebUI.png)
 
 
 
