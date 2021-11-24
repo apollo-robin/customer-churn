@@ -64,7 +64,7 @@ if submit:
     
     if attrition[0] == 0:
         st.balloons()
-        st.success("The customer is not likely to attrite !")
+        st.success("The customer is not likely to churn !")
     else:
         st.error("This customer may attrite. Do something !")
        
