@@ -26,14 +26,14 @@
 - Python 3.7
 
 ## Features
-- Awesome feature 1
-- Awesome feature 2
-- Awesome feature 3
+- Predict which of your customer may churn
+- Know the reasons for churn with Global and Local Model Explainability
+- Data Drift Report and Model Scorecard
 
 
 ## Screenshots
 ![Example screenshot](./img/screenshot.png)
-<!-- If you have screenshots you'd like to share, include them here. -->
+
 
 
 ## Setup
