@@ -32,7 +32,7 @@
 
 
 ## Screenshots
-![Example screenshot](.WebUI.png)
+![Example screenshot](https://raw.githubusercontent.com/apollo-robin/customer-churn/main/WebUI.png)
 
 
 
