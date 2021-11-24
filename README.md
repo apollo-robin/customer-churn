@@ -1,6 +1,6 @@
 # Predict Customer Churn
 > One of the problems any company faces is the churn of customers. This project aims to solve this problem by predicting churn of credit card customers and help banks to act proactively to retain these customers by providing them better services.<br>
-> Live demo [_here_](https://www.example.com). 
+> Live demo [_here_](https://share.streamlit.io/apollo-robin/algo_server/main/server.py). 
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -36,8 +36,6 @@
 
 ## Setup
 The requirements are specified in the [requirement.txt](https://raw.githubusercontent.com/apollo-robin/customer-churn/main/Python%20Files/requirements.txt) file in Python Files directory.
-
-Proceed to describe how to install / setup one's local environment / get started with the project.
 
 
 ## Usage
