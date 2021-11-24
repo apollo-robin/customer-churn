@@ -12,8 +12,6 @@
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
 * [Acknowledgements](#acknowledgements)
-* [Contact](#contact)
-<!-- * [License](#license) -->
 
 
 ## General Information
@@ -37,16 +35,13 @@
 
 
 ## Setup
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
+The requirements are specified in the [requirement.txt] file.
 
 Proceed to describe how to install / setup one's local environment / get started with the project.
 
 
 ## Usage
-How does one go about using it?
-Provide various use cases and code examples here.
-
-`write-your-code-here`
+The easier way to use the model is to go to the Web Interface. Secondly all the Notebooks can be opened directly in Google Colaboratory
 
 
 ## Project Status
