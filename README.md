@@ -35,7 +35,7 @@
 
 
 ## Setup
-The requirements are specified in the [requirement.txt] file.
+The requirements are specified in the [requirement.txt](https://raw.githubusercontent.com/apollo-robin/customer-churn/main/Python%20Files/requirements.txt) file in Python Files directory.
 
 Proceed to describe how to install / setup one's local environment / get started with the project.
 
