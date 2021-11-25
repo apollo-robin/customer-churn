@@ -3,8 +3,8 @@
 
 **2_ModelDevelopment**
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Wb7QvjGwCo6LIWHQj_M25dJSxgVNE2b_)
-**
-3_ModelDeployment**
+
+**3_ModelDeployment**
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DDZtG6TySDm00RZYs31rF6gpBLqshiQz)
 
 **4_ModelMonitoring**
