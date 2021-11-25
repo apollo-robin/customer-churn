@@ -39,21 +39,11 @@ The requirements are specified in the [requirement.txt](https://raw.githubuserco
 
 
 ## Usage
-The easier way to use the model is to go to the Web Interface. Secondly all the Notebooks can be opened directly in Google Colaboratory
+The easier way to use the model is to go to the Web Interface. Secondly all the Notebooks can be opened directly in Google Colaboratory. Make sure to upload the required data files (.csv/.pkl) or models (.pkl) on Colab runtime.
 
 
 ## Project Status
 Project is: _in progress_
-
-
-## Room for Improvement
-Room for improvement:
-- Improvement to be done 1
-- Improvement to be done 2
-
-To do:
-- Feature to be added 1
-- Feature to be added 2
 
 
 ## Acknowledgements
