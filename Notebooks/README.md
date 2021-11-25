@@ -1,5 +1,5 @@
 **1_DataPreparation**
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/apollo-robin/customer-churn/blob/main/Notebooks/1_DataPrepration.ipynb)
 
 **2_ModelDevelopment**
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/)
