@@ -20,7 +20,7 @@ class CreditChurnClassification():
         
 
 
-prediction_model = load('../Models/Churn_xgb_top.pkl')
+prediction_model = load('Churn_xgb_top.pkl')
 
 #Setting up page configuration
 st.set_page_config(page_title= 'Group 3', initial_sidebar_state='auto') 
@@ -32,7 +32,7 @@ st.markdown('<p style= "text-align:center; color: black;  font-size: 18px">We in
 with st.form("info"):
     st.markdown("**Just fill in the details and we'll let you know** :yum: ")
     
-    col1 , col2 = st.beta_columns(2)
+    col1 , col2 = st.columns(2)
     age = col1.slider('Age', min_value=18,max_value=75)
     gender = col2.selectbox('Gender', options=("M","F"))
     total_rel_cnt = col2.number_input("Total Relationship Count",value = 5)
@@ -64,7 +64,7 @@ if submit:
     
     if attrition[0] == 0:
         st.balloons()
-        st.success("The customer is not likely to churn !")
+        st.success("Your customer is not likely to churn !")
     else:
         st.error("This customer may attrite. Do something !")
        
