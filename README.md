@@ -48,4 +48,5 @@ Project is: _in progress_
 ## Acknowledgements
 
 - This project was inspired by [@manaranjanp](https://github.com/manaranjanp)
+- The credit card customers has been sourced from https://www.kaggle.com/sakshigoyal7/credit-card-customers. Original Source: https://leaps.analyttica.com/ 
 
